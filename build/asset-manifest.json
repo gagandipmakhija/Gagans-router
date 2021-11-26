@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gagan-router/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Gagan-router/static/js/main.f3073412.chunk.js",
+    "main.js.map": "/Gagan-router/static/js/main.f3073412.chunk.js.map",
+    "runtime-main.js": "/Gagan-router/static/js/runtime-main.eb1523db.js",
+    "runtime-main.js.map": "/Gagan-router/static/js/runtime-main.eb1523db.js.map",
+    "static/js/2.289aab4e.chunk.js": "/Gagan-router/static/js/2.289aab4e.chunk.js",
+    "static/js/2.289aab4e.chunk.js.map": "/Gagan-router/static/js/2.289aab4e.chunk.js.map",
+    "static/js/3.449d1c2a.chunk.js": "/Gagan-router/static/js/3.449d1c2a.chunk.js",
+    "static/js/3.449d1c2a.chunk.js.map": "/Gagan-router/static/js/3.449d1c2a.chunk.js.map",
+    "index.html": "/Gagan-router/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Gagan-router/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.289aab4e.chunk.js.LICENSE.txt": "/Gagan-router/static/js/2.289aab4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1523db.js",
+    "static/js/2.289aab4e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f3073412.chunk.js"
+  ]
+}
